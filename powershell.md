@@ -16,7 +16,7 @@ keywords:
 
 Getting started
 ---------------
-{: .-two-column}
+{: .-three-column}
 
 ### Example
 
